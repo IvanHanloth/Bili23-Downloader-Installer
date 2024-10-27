@@ -1,0 +1,7 @@
+﻿主项目地址：https://github.com/ScottSloan/Bili23-Downloader
+
+作者博客：https://scott-sloan.cn/
+
+安装程序开源地址：https://github.com/IvanHanloth/Bili23-Downloader-Installer
+
+安装程序由Ivan Hanloth封装并发布，原作者Scott Sloan保留项目著作权

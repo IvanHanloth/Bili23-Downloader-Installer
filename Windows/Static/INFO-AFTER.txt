@@ -1,0 +1,5 @@
+﻿主项目开源地址：https://github.com/ScottSloan/Bili23-Downloader
+
+作者博客：https://scott-sloan.cn/
+
+问题反馈地址：https://github.com/ScottSloan/Bili23-Downloader/issues
